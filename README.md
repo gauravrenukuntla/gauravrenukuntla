@@ -1,4 +1,4 @@
-<h3 align="center">Project Engineer at Wipro | Full Stack Developer | Salesforce Developer | Data Enthusiast</h3>
+<h3 align="center">Project Engineer at Wipro | Full Stack Developer | Data Enthusiast</h3>
 
 # 💫 About Me:
 👋 Hey there!<br>
